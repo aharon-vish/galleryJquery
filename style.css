@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+}
+
+#thumbNailContainer {
+    display: flex;
+}
+
+#bigImageContainer {
+
+}
+
+.thumbNailFocus {
+    border-color: #337ab7;
+    color: #23527c;
+    text-decoration: underline;
+}
